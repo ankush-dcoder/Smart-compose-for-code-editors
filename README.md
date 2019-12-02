@@ -3,6 +3,7 @@ The project predicts code completions using ml on mobile and helps code faster o
 
 <hr />
 <b>What's the idea</b>
+
 We notice a huge challenge we face during coding on mobile- Typing code..
 
 In terms of usability coding has always been mouse & keyboard facilitated. Building the same experience for mobile requires us to fundamentally rethink our strategy, by understanding the relationship between the keyboard and editor and the interactions with the users thumbs (Yup! For mobile it’s just thumbs.. Not all 10 fingers like the keyboards). 
@@ -25,6 +26,7 @@ We get over a half a million files every month in 37 programming languages from 
 
 <hr />
 <b>Tell us about you.</b> 
+
 A great idea is just one part of the equation; we also want to learn a bit more about you. Share with us some of your other projects so we can get an idea of how we can assist you with your project. 
 
 We built Dcoder- a mobile coding app on the play store. This has been in the market for 3yrs and have over 2 million users, spread across 172+ countries.
