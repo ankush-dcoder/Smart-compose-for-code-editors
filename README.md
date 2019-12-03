@@ -17,7 +17,8 @@ With variability in user writing style, language type and general coding languag
 
 <hr />
 
-<img src="https://github.com/dcodermobile/Smart-compose-for-code-editors/raw/master/dcoder_smart_autocomplete_mobile.gif"/>
+<img src="https://github.com/dcodermobile/Smart-compose-for-code-editors/raw/master/dcoder_smart_autocomplete_mobile.gif" width="320"/>
+<img src="https://github.com/dcodermobile/Smart-compose-for-code-editors/raw/master/dcoder_smart_autocomplete_mobile.gif" width="320"/>
 <b>Tell us how you plan on bringing it to life. </b>
 
 Our app has a custom made editor and keyboard with which we are able to implement a basic auto complete feature. Currently as the user is typing we suggest the most apt words. We plan to use this to construct the basic model and then an on device model to create a strong association to the users coding habits and style.
