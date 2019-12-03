@@ -21,7 +21,7 @@ With variability in user writing style, language type and general coding languag
   <p>Our current offering</p>
  </p>
  <p style="text-align:center">
-<img style="display:inline;padding-left:20px" src="https://github.com/dcodermobile/Smart-compose-for-code-editors/raw/master/dcoder_smart_autocomplete_mobile.gif" width="320"/>
+<img src="https://github.com/dcodermobile/Smart-compose-for-code-editors/raw/master/dcoder_smart_compose_mobile.gif" width="320"/>
   <p>What we are planning on building.</p>
   </p>
 <b>Tell us how you plan on bringing it to life. </b>
