@@ -16,9 +16,14 @@ With variability in user writing style, language type and general coding languag
 
 
 <hr />
-
-<img style="display:inline" src="https://github.com/dcodermobile/Smart-compose-for-code-editors/raw/master/dcoder_smart_autocomplete_mobile.gif" width="320"/>
+<p style="text-align:center">
+<img src="https://github.com/dcodermobile/Smart-compose-for-code-editors/raw/master/dcoder_smart_autocomplete_mobile.gif" width="320"/>
+  <p>Our current offering</p>
+ </p>
+ <p style="text-align:center">
 <img style="display:inline;padding-left:20px" src="https://github.com/dcodermobile/Smart-compose-for-code-editors/raw/master/dcoder_smart_autocomplete_mobile.gif" width="320"/>
+  <p>What we are planning on building.</p>
+  </p>
 <b>Tell us how you plan on bringing it to life. </b>
 
 Our app has a custom made editor and keyboard with which we are able to implement a basic auto complete feature. Currently as the user is typing we suggest the most apt words. We plan to use this to construct the basic model and then an on device model to create a strong association to the users coding habits and style.
@@ -29,8 +34,6 @@ We get over a half a million files every month in 37 programming languages from 
 
 <hr />
 <b>Tell us about you.</b> 
-
-A great idea is just one part of the equation; we also want to learn a bit more about you. Share with us some of your other projects so we can get an idea of how we can assist you with your project. 
 
 We built Dcoder- a mobile coding app on the play store. This has been in the market for 3yrs and have over 2 million users, spread across 172+ countries.
 
