@@ -16,13 +16,17 @@ With variability in user writing style, language type and general coding languag
 
 
 <hr />
+
+<p>Our current offering</p>
 <p style="text-align:center">
 <img src="https://github.com/dcodermobile/Smart-compose-for-code-editors/raw/master/dcoder_smart_autocomplete_mobile.gif" width="320"/>
-  <p>Our current offering</p>
  </p>
+ 
+ 
+ <p>What we are planning on building.</p>
  <p style="text-align:center">
 <img src="https://github.com/dcodermobile/Smart-compose-for-code-editors/raw/master/dcoder_smart_compose_mobile.gif" width="320"/>
-  <p>What we are planning on building.</p>
+  
   </p>
 <b>Tell us how you plan on bringing it to life. </b>
 
